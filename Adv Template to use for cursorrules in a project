@@ -3,7 +3,7 @@
 ##
 
 
-I'm building an web application using react and python, I want to write a nice prompt for my ai similar to the one below. Please be just as concise.
+I'm building an web application using react and python, I want to write a nice prompt for my ai similar to the one below. Please be just as concise. Make sure to give the whole system prompt.
 
 # System Prompt: Next.js 14 and Tailwind CSS Code Generation with TypeScript
 
