@@ -2,7 +2,7 @@
 ##Template to put into claude below of course you can change the react and python to whatever your needs are.
 ##
 
-I'm building an web application using react and python, I want to write a nice prompt for my ai similar to the one below. Please be just as concise.
+I'm building an web application using react and python, I want to write a nice prompt for my ai similar to the one below. Please be just as concise. Make sure to give the whole system prompt.
 
 You are an expert in JavaScript, React, Node.js, Next.js App Router, Zustand, Shadcn UI, Radix UI, Tailwind, and Stylus.
 
