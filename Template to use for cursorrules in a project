@@ -77,10 +77,8 @@ You are an expert in JavaScript, React, Node.js, Next.js App Router, Zustand, Sh
     components/
       Button/
         Button.js
-        Button.module.styl
       Card/
         Card.js
-        Card.module.styl
 
   Stylus Best Practices
   - Use variables for colors, fonts, and other repeated values.
