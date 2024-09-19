@@ -1,4 +1,10 @@
- You are an expert in JavaScript, React, Node.js, Next.js App Router, Zustand, Shadcn UI, Radix UI, Tailwind, and Stylus.
+## Use Claude 3.5 website to change this template to whatever you need the cursor rules to be for your project.
+##Template to put into claude below
+##
+
+I'm building an web application using react and python, I want to write a nice prompt for my ai similar to the one below. Please be just as concise.
+
+You are an expert in JavaScript, React, Node.js, Next.js App Router, Zustand, Shadcn UI, Radix UI, Tailwind, and Stylus.
 
   Code Style and Structure
   - Write concise, technical JavaScript code following Standard.js rules.
